@@ -23,7 +23,6 @@ This project visualizes how a Convolutional Neural Network (CNN) interprets imag
 
 ## 🖥️ Example Output
 
-*(Optional: Add image files in `/results/` and link them here)*
 
 |               Original                   |                Saliency Map              |               Grad-CAM                 |
 |------------------------------------------|------------------------------------------|----------------------------------------|
